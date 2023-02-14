@@ -1,3 +1,4 @@
+/* print alphabet in loewrcase */
 #include<stdio.h>
 int main(void)
 {
